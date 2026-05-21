@@ -1,0 +1,89 @@
+{
+  "tasks": [
+    {
+      "id": "20260521075934-nkie",
+      "title": "**타겟 니치 설정:** 우리가 가장 잘 해결해 줄 수 있는 산업군 선정",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-21T07:59:34.885Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T07-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T07-59/_report.md\n- Researcher: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n- 현빈: 리서치 데이터를 기반으로 한 단계별 성장 로드맵, 핵심 KPI 설정 및 수익 극대화 전략 수립\n- Writer: 최고의 에이전시로서의 권위를 보여줄 수 있는 브랜드 슬로건 및 핵심 가치 제안서(Value Proposition) 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 현재 시장에서 'A",
+      "completedAt": "2026-05-21T08:02:54.639Z"
+    },
+    {
+      "id": "20260521075934-ao2t",
+      "title": "**핵심 오퍼(Offer) 설계:** \"X일 안에 Y라는 결과를 만들어주는 AI 자동화 시스템 구축\"",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-21T07:59:34.983Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T07-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T07-59/_report.md\n- Researcher: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n- 현빈: 리서치 데이터를 기반으로 한 단계별 성장 로드맵, 핵심 KPI 설정 및 수익 극대화 전략 수립\n- Writer: 최고의 에이전시로서의 권위를 보여줄 수 있는 브랜드 슬로건 및 핵심 가치 제안서(Value Proposition) 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 현재 시장에서 'A",
+      "completedAt": "2026-05-21T08:02:54.680Z"
+    },
+    {
+      "id": "20260521075935-7bw6",
+      "title": "**킬러 툴셋 확정:** 주력으로 사용할 AI 스택(예: Make + GPT-4 + Notion) 결정",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-21T07:59:35.034Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T07-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T07-59/_report.md\n- Researcher: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n- 현빈: 리서치 데이터를 기반으로 한 단계별 성장 로드맵, 핵심 KPI 설정 및 수익 극대화 전략 수립\n- Writer: 최고의 에이전시로서의 권위를 보여줄 수 있는 브랜드 슬로건 및 핵심 가치 제안서(Value Proposition) 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 현재 시장에서 'A",
+      "completedAt": "2026-05-21T08:02:54.713Z"
+    },
+    {
+      "id": "20260521075935-491d",
+      "title": "**Case Study 제작:** 작은 성공 사례(무료 또는 저가)를 만들어 PDF/포스팅으로 정리",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-21T07:59:35.068Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T07-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T07-59/_report.md\n- Researcher: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n- 현빈: 리서치 데이터를 기반으로 한 단계별 성장 로드맵, 핵심 KPI 설정 및 수익 극대화 전략 수립\n- Writer: 최고의 에이전시로서의 권위를 보여줄 수 있는 브랜드 슬로건 및 핵심 가치 제안서(Value Proposition) 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 현재 시장에서 'A",
+      "completedAt": "2026-05-21T08:02:54.744Z"
+    },
+    {
+      "id": "20260521075935-8kfh",
+      "title": "**콘텐츠 채널 가동:** 주 3회 AI 실무 적용 팁 발행 (링크드인/X/유튜브)",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-21T07:59:35.099Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T07-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T07-59/_report.md\n- Researcher: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n- 현빈: 리서치 데이터를 기반으로 한 단계별 성장 로드맵, 핵심 KPI 설정 및 수익 극대화 전략 수립\n- Writer: 최고의 에이전시로서의 권위를 보여줄 수 있는 브랜드 슬로건 및 핵심 가치 제안서(Value Proposition) 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 현재 시장에서 'A",
+      "completedAt": "2026-05-21T08:02:54.774Z"
+    }
+  ]
+}
