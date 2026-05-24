@@ -84,6 +84,74 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-21T07-59/_report.md\n- Researcher: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n- 현빈: 리서치 데이터를 기반으로 한 단계별 성장 로드맵, 핵심 KPI 설정 및 수익 극대화 전략 수립\n- Writer: 최고의 에이전시로서의 권위를 보여줄 수 있는 브랜드 슬로건 및 핵심 가치 제안서(Value Proposition) 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 현재 시장에서 가장 성공적인 1인 AI 에이전시 및 콘텐츠 크리에이터들의 수익 모델과 운영 전략 리서치\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 현재 시장에서 'A",
       "completedAt": "2026-05-21T08:02:54.774Z"
+    },
+    {
+      "id": "20260521183316-11nx",
+      "title": "모든 텍스트가 512px 캔버스 내에서 잘리지 않고 안전 영역(Safe Zone) 내에 있는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-21T18:33:16.669Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T18-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T18-32/_report.md\n- Writer: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션\n- Designer: 최종 렌더링 가이드(512x512px, 투명 배경, Pretendard ExtraBold)를 준수하여 시안 A, B, C의 캐릭터 이미지와 텍스\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션을 확정하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출*",
+      "completedAt": "2026-05-21T18:33:55.847Z"
+    },
+    {
+      "id": "20260521183316-2do4",
+      "title": "Pretendard ExtraBold의 가독성이 모바일 작은 화면에서도 확보되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-21T18:33:16.784Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T18-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T18-32/_report.md\n- Writer: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션\n- Designer: 최종 렌더링 가이드(512x512px, 투명 배경, Pretendard ExtraBold)를 준수하여 시안 A, B, C의 캐릭터 이미지와 텍스\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션을 확정하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출*",
+      "completedAt": "2026-05-21T18:33:55.978Z"
+    },
+    {
+      "id": "20260521183316-rpzc",
+      "title": "캐릭터의 외곽선이 배경과 분리되어 명확하게 보이는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-21T18:33:16.854Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T18-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T18-32/_report.md\n- Writer: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션\n- Designer: 최종 렌더링 가이드(512x512px, 투명 배경, Pretendard ExtraBold)를 준수하여 시안 A, B, C의 캐릭터 이미지와 텍스\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션을 확정하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출*",
+      "completedAt": "2026-05-21T18:33:56.033Z"
+    },
+    {
+      "id": "20260521183317-0q0k",
+      "title": "투명 배경 PNG로 저장되어 다양한 배경색 위에서도 작동하는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-21T18:33:17.057Z",
+      "status": "done",
+      "sessionDir": "2026-05-21T18-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-21T18-32/_report.md\n- Writer: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션\n- Designer: 최종 렌더링 가이드(512x512px, 투명 배경, Pretendard ExtraBold)를 준수하여 시안 A, B, C의 캐릭터 이미지와 텍스\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 렌더링 가이드의 시안 A(투표 독려), B(강력 지지), C(승리 확신) 컨셉에 맞춰 모바일에서 즉각적으로 반응할 수 있는 최종 훅 문구와 캡션을 확정하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출*",
+      "completedAt": "2026-05-21T18:33:56.084Z"
     }
   ]
 }
